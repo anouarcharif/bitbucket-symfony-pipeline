@@ -38,25 +38,3 @@ pipelines:
 ## Debian _Stretch_
 
 A Docker image based on [Debian _Stretch_](https://www.debian.org/releases/stretch/), PHP 7, MySQL 5.6, Node.js 6.x and Ruby 2.3 is available under `stretch` branch (and with Docker tag `stretch`).
-
-## Changelog
-
-### 0.3
-
- - Adds Yarn, `subversion`, `php5-xmlrpc`, `php5-json`, `php5-geoip`, `php5-apcu`, `php5-xhprof`
- - Replaces `wget` by `curl`
- - CI with Travis
- - Adjusts `xdebug.max_nesting_level` in `xdebug.ini`
- - Uses *slim* variant for base Debian Docker image.
-
-### 0.2
-
- - Adds Ruby, Grunt, Webpack, Mocha, Sqlite, PHPUnit, Memcached, Codeception
- - Adds `php5-xdebug`, `php5-intl`, `php5-memcached`
- - Set `root` password to `root`
-
-### 0.1
-
- - Initial release
- - Perl, Python, PHP, MySQL, Node.js
- - Composer, Gulp
