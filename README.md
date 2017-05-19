@@ -22,7 +22,7 @@ More help in Bitbucket's [Confluence](https://confluence.atlassian.com/bitbucket
 ## Sample `bitbucket-pipelines.yml`
 
 ```YAML
-image: smartapps/bitbucket-pipelines-php-mysql
+image: anouarcharif/bitbucket-pipeline-php-phpunit-mysql-for-symfony-3
 pipelines:
   default:
     - step:
