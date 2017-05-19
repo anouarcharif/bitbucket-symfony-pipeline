@@ -1,7 +1,7 @@
 [![Travis Build Status](https://travis-ci.org/anouarcharif/bitbucket-pipeline-php-phpunit-mysql-for-symfony-3.svg?branch=master)](https://travis-ci.org/smartapps-fr/bitbucket-pipelines-php-mysql)
 [![Microbadger badge](https://images.microbadger.com/badges/image/anouarcharif/bitbucket-pipeline-php-phpunit-mysql-for-symfony-3.svg)](https://microbadger.com/images/anouarcharif/bitbucket-pipeline-php-phpunit-mysql-for-symfony-3)
 
-# bitbucket-pipelines-php-mysql
+# bitbucket-pipeline-php-phpunit-mysql-for-symfony-3
 
 [Bitbucket Pipelines](https://bitbucket.org/product/features/pipelines) [Docker](https://www.docker.com/) image based on [Debian _Jessie_](https://www.debian.org/releases/jessie/) with [PHP](http://php.net/)/[MySQL](https://www.mysql.com) (and more !)
 
