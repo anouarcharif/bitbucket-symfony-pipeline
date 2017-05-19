@@ -1,5 +1,5 @@
 FROM debian:jessie-slim
-MAINTAINER Damien Debin <damien.debin@smartapps.fr>
+MAINTAINER Anouar-Charif ZEKRI <anouarcharif@gmail.com>
 
 ENV DEBIAN_FRONTEND noninteractive
 ENV LC_ALL en_US.UTF-8
