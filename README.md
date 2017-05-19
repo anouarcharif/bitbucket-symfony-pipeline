@@ -1,4 +1,4 @@
-[![Travis Build Status](https://travis-ci.org/anouarcharif/bitbucket-pipeline-php-phpunit-mysql-for-symfony-3.svg?branch=master&1)](https://travis-ci.org/anouarcharif/bitbucket-pipeline-php-phpunit-mysql-for-symfony-3)
+[![Travis Build Status](https://api.travis-ci.org/anouarcharif/bitbucket-symfony-pipeline.svg?branch=master&1)](https://api.travis-ci.org/anouarcharif/bitbucket-symfony-pipeline.svg)
 
 # bitbucket-pipeline-php-phpunit-mysql-for-symfony-3
 Docker hub image URL : https://hub.docker.com/r/anouarcharif/bitbucket-pipeline-php-phpunit-mysql-for-symfony-3/
