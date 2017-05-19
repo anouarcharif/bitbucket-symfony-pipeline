@@ -1,5 +1,7 @@
 [![Travis Build Status](https://api.travis-ci.org/anouarcharif/bitbucket-symfony-pipeline.svg?branch=master&1)](https://api.travis-ci.org/anouarcharif/bitbucket-symfony-pipeline.svg)
 
+[![](https://images.microbadger.com/badges/image/anouarcharif/bitbucket-pipeline-php-phpunit-mysql-for-symfony-3.svg)](https://microbadger.com/images/anouarcharif/bitbucket-pipeline-php-phpunit-mysql-for-symfony-3 "Get your own image badge on microbadger.com")
+
 # bitbucket-pipeline-php-phpunit-mysql-for-symfony-3
 Docker hub image URL : https://hub.docker.com/r/anouarcharif/bitbucket-pipeline-php-phpunit-mysql-for-symfony-3/
 
