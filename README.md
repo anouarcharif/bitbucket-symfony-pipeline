@@ -18,7 +18,7 @@ Docker image at [smartapps/bitbucket-pipelines-php-mysql](https://hub.docker.com
  - [PHP](http://www.php.net/) 5.6
  - [Ruby](https://www.ruby-lang.org/) 2.1
  - [Node.js](https://nodejs.org/) 4.x LTS
- - [PHPUnit](https://phpunit.de/) 5.7
+ - [PHPUnit](https://phpunit.de/) 5.4.8
  - Latest [Composer](https://getcomposer.org/), [Gulp](http://gulpjs.com/), [Webpack](https://webpack.github.io/), [Mocha](https://mochajs.org/), [Grunt](http://gruntjs.com/), [Codeception](https://codeception.com/), [Yarn](https://yarnpkg.com/)
 
 ## Sample `bitbucket-pipelines.yml`
