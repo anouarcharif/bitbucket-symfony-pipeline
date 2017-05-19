@@ -1,5 +1,4 @@
 [![Travis Build Status](https://travis-ci.org/anouarcharif/bitbucket-pipeline-php-phpunit-mysql-for-symfony-3.svg?branch=master&1)](https://travis-ci.org/anouarcharif/bitbucket-pipeline-php-phpunit-mysql-for-symfony-3)
-[![Microbadger badge](https://images.microbadger.com/badges/image/anouarcharif/bitbucket-pipeline-php-phpunit-mysql-for-symfony-3.svg)](https://microbadger.com/images/anouarcharif/bitbucket-pipeline-php-phpunit-mysql-for-symfony-3)
 
 # bitbucket-pipeline-php-phpunit-mysql-for-symfony-3
 
