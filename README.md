@@ -7,8 +7,6 @@ Docker hub image URL : https://hub.docker.com/r/anouarcharif/bitbucket-pipeline-
 
 More help in Bitbucket's [Confluence](https://confluence.atlassian.com/bitbucket/bitbucket-pipelines-beta-792496469.html)
 
-Docker image at [smartapps/bitbucket-pipelines-php-mysql](https://hub.docker.com/r/anouarcharif/bitbucket-pipeline-php-phpunit-mysql-for-symfony-3/) (no `CMD` as it is overriden by *Pipelines*)
-
 ## Packages installed
 
  - `php5-apcu`, `php5-cli`, `php5-curl`, `php5-gd`, `php5-geoip`, `php-gettext`, `php5-imagick`, `php5-intl`, `php5-json`, `php5-mcrypt`, `php5-memcached`, `php5-mysqlnd`, `php5-sqlite`, `php5-xdebug`, `php5-xhprof`, `php5-xmlrpc`, `memcached`, `imagemagick`, `openssh-client`, `curl`, `gettext`, `zip`, `git`, `subversion`
