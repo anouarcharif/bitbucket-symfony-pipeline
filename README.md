@@ -7,7 +7,7 @@
 
 More help in Bitbucket's [Confluence](https://confluence.atlassian.com/bitbucket/bitbucket-pipelines-beta-792496469.html)
 
-Docker image at [smartapps/bitbucket-pipelines-php-mysql](https://hub.docker.com/r/smartapps/bitbucket-pipelines-php-mysql/) (no `CMD` as it is overriden by *Pipelines*)
+Docker image at [smartapps/bitbucket-pipelines-php-mysql](https://hub.docker.com/r/anouarcharif/bitbucket-pipeline-php-phpunit-mysql-for-symfony-3/) (no `CMD` as it is overriden by *Pipelines*)
 
 ## Packages installed
 
