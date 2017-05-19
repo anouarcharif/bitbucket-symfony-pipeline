@@ -1,5 +1,5 @@
-[![Travis Build Status](https://travis-ci.org/smartapps-fr/bitbucket-pipelines-php-mysql.svg?branch=master)](https://travis-ci.org/smartapps-fr/bitbucket-pipelines-php-mysql)
-[![Microbadger badge](https://images.microbadger.com/badges/image/smartapps/bitbucket-pipelines-php-mysql.svg)](https://microbadger.com/images/smartapps/bitbucket-pipelines-php-mysql)
+[![Travis Build Status](https://travis-ci.org/anouarcharif/bitbucket-pipeline-php-phpunit-mysql-for-symfony-3.svg?branch=master)](https://travis-ci.org/smartapps-fr/bitbucket-pipelines-php-mysql)
+[![Microbadger badge](https://images.microbadger.com/badges/image/anouarcharif/bitbucket-pipeline-php-phpunit-mysql-for-symfony-3.svg)](https://microbadger.com/images/anouarcharif/bitbucket-pipeline-php-phpunit-mysql-for-symfony-3)
 
 # bitbucket-pipelines-php-mysql
 
